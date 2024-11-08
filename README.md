@@ -3,6 +3,6 @@ Calculator made using C++ and the Qt framework. A simple project to train logic 
 
 [Download Installer for Windows](https://t.ly/qwDlF)
 ---
-[Download zip file](https://t.ly/9pDlJ)
+[Download zip file for Windows](https://t.ly/9pDlJ)
 ---
-![Demonstração](https://i.im.ge/2024/11/09/kJP0Pa.calc.png)
+[![kJP0Pa.calc.png](https://i.im.ge/2024/11/09/kJP0Pa.calc.png)](https://im.ge/i/calc.kJP0Pa)
