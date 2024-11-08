@@ -5,5 +5,5 @@ Calculator made using C++ and the Qt framework. A simple project to train logic 
 ---
 [Download zip file for Windows](https://t.ly/9pDlJ)
 ---
-## **Design**
-![teste](resource/calc.png)
+## 🖩 **Demonstration**
+![teste](resource/demo.gif)
