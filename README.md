@@ -5,5 +5,5 @@ Calculator made using C++ and the Qt framework. A simple project to train logic 
 
 [Download zip file](https://download1326.mediafire.com/rn1nidgg49kgBrzMi9ZhfSGvy3jJScDfIKz0CUb9mqJgxPEiEDaY396rXPXxjqEJJBhnYgkVgsgtj9fnX4igpMabsY1GEoOsvd8EbnxpAmuUO_r8soWIxb4ngkICo4cZwXyJobgFosOQHxaRv5MExDFOeHm3E9Q7UetT22IZcprFzw/tl6by5h7gnwd3dd/Calculadora.rar)
 
-## 🖩 **Demonstration**
+## 🖩 **Working**
 ![teste](resource/demo.gif)
